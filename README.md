@@ -1,5 +1,7 @@
 # stacks
 
+> ⤴ This project's next chapter is **[Keep](https://github.com/rajanshxrma/keep)** -- one app that does this plus calendar/reminders/mail and screen description. This repo remains the standalone original and still works; it will be archived once Keep reaches full parity.
+
 On-device semantic search over your own files. Ask your Mac a question, get a grounded, cited answer -- nothing leaves the machine.
 
 ![demo](assets/demo.gif)
